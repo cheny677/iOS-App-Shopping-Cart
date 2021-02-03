@@ -1,4 +1,9 @@
-# assignment-1-pair-1-cheny677-svision-mobile
+# Course Project: iOS App Shopping Cart
+
+### Contibutors:
+- Yutong Chen: https://github.com/cheny677
+- Changhao Song: https://github.com/Svision
+
 How to run the app:
  Download XCode on a Mac (any of MacBook, Pro MacBook Air, iMac, iMac Pro, Mac Pro, Mac Mini)
  Clone the repository on the Mac
