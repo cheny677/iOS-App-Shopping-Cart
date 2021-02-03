@@ -1,0 +1,37 @@
+{
+    "coupons": [
+        {
+            "code": "ONEPERCENT",
+            "off": 0.01
+        },
+        {
+            "code": "FIVEPERCENT",
+            "off": 0.05
+        },
+        {
+            "code": "TENPERCENT",
+            "off": 0.1
+        },
+        {
+            "code": "TWENTYPERCENT",
+            "off": 0.2
+        },
+        {
+            "code": "THIRTYPERCENT",
+            "off": 0.3
+        },
+        {
+            "code": "FOURTYPERCENT",
+            "off": 0.4
+        },
+        {
+            "code": "HALFOFF",
+            "off": 0.5
+        },
+        {
+            "code": "FORFREE",
+            "off": 1
+        }
+    ]
+}
+
